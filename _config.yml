@@ -2,8 +2,8 @@ encoding: UTF-8
 
 remote_theme: jekyll/minima
 
-title: xxx
-description: xxx
+title: Lucy's Blog
+description: My personal blog
 
 header_pages:
   - about.md

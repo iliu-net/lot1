@@ -22,15 +22,13 @@ post_type: page
 post_mime_type: ""
 comment_count: "1"
 title: About me
-...
 ---
 
 I am cheerful lady with high spirits and positive mindset. I am from
 Peru and live in The Netherlands. I can be a workaholic sometimes,
 and I definitely enjoy travelling and visiting new places ... And I love my family!
 
-
-<img src="https://familiu.sirv.com/4/files/2013/10/img_1610.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="img_1610" class="alignnone size-medium s3_image-48" />
+![img_1610.jpg]({{ site.url }}/img/2013/img_1610.jpg)
 
 Alex is my dearest husband, we married in 2002 and hope we will keep
 counting our years together. We promised to each other to be together
@@ -47,5 +45,6 @@ impression of them in the pictures below ... for a story, I will
 need another blog :-)
 
 
-<img src="https://familiu.sirv.com/4/files/2013/10/IMG_4961a.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="IMG_4961a" class="alignnone size-medium s3_image-55" />
-<img src="https://familiu.sirv.com/4/files/2013/10/IMG_5372a.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="IMG_5372a" class="alignnone size-medium s3_image-53" />
+![img_4961a]({{ site.url }}/img/2013/IMG_4961a.jpg)
+
+![img_5372a]({{ site.url }}/img/2013/IMG_5372a.jpg)
