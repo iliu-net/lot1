@@ -25,14 +25,25 @@ title: Dutch Speed Skating @ Sochi Olympics
 ...
 ---
 
-<img src="https://familiu.sirv.com/4/files/2014/02/017419199_30300.jpg?scale.width=300&scale.height=169" width="300" height=169" alt="0,,17419199_303,00" class="alignnone size-medium s3_image-106" />
+![017419199_30300.jpg]({{ site.url }}/img/2014/017419199_30300.jpg)
 
-<img src="https://familiu.sirv.com/4/files/2014/02/oly_g_dutch-speedskating01jr_600x400.jpg?scale.width=300&scale.height=200" width="300" height=200" alt="oly_g_dutch-speedskating01jr_600x400" class="alignnone size-medium s3_image-105" />
 
-<img src="https://familiu.sirv.com/4/files/2014/02/medal.jpg?scale.width=300&scale.height=247" width="300" height=247" alt="medal" class="alignnone size-medium s3_image-104" />
 
-<img src="https://familiu.sirv.com/4/files/2014/02/140209132801-irene-wust-sochi-horizontal-gallery.jpg?scale.width=300&scale.height=169" width="300" height=169" alt="140209132801-irene-wust-sochi-horizontal-gallery" class="alignnone size-medium s3_image-103" />
+![oly_g_dutch-speedskating01jr_600x400.jpg]({{ site.url }}/img/2014/oly_g_dutch-speedskating01jr_600x400.jpg)
 
-<img src="https://familiu.sirv.com/4/files/2014/02/2014-02-21T152330Z_638806874_LR2EA2L16QW6U_RTRMADP_3_OLYMPICS-SPEEDSKATING.jpg?scale.width=300&scale.height=218" width="300" height=218" alt="2014-02-21T152330Z_638806874_LR2EA2L16QW6U_RTRMADP_3_OLYMPICS-SPEEDSKATING" class="alignnone size-medium s3_image-102" />
 
-<img src="https://familiu.sirv.com/4/files/2014/02/628x471.jpg?scale.width=300&scale.height=205" width="300" height=205" alt="628x471" class="alignnone size-medium s3_image-101" />
+
+![medal.jpg]({{ site.url }}/img/2014/medal.jpg)
+
+
+
+![140209132801-irene-wust-sochi-horizontal-gallery.jpg]({{ site.url }}/img/2014/140209132801-irene-wust-sochi-horizontal-gallery.jpg)
+
+
+
+![2014-02-21T152330Z_638806874_LR2EA2L16QW6U_RTRMADP_3_OLYMPICS-SPEEDSKATING.jpg]({{ site.url }}/img/2014/2014-02-21T152330Z_638806874_LR2EA2L16QW6U_RTRMADP_3_OLYMPICS-SPEEDSKATING.jpg)
+
+
+
+![628x471.jpg]({{ site.url }}/img/2014/628x471.jpg)
+

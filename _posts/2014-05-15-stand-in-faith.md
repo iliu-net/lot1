@@ -25,4 +25,5 @@ title: Stand in Faith
 ...
 ---
 
-<img src="https://familiu.sirv.com/4/files/2014/05/tumblr_me95ndt0Qd1rm6sywo1_500.jpg?scale.width=300&scale.height=192" width="300" height=192" alt="tumblr_me95ndt0Qd1rm6sywo1_500" class="alignnone size-medium s3_image-175" />
+![tumblr_me95ndt0Qd1rm6sywo1_500.jpg]({{ site.url }}/img/2014/tumblr_me95ndt0Qd1rm6sywo1_500.jpg)
+

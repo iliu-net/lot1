@@ -27,4 +27,5 @@ title: Hello world!
 
 Welcome to my blog
 
-<img src="https://familiu.sirv.com/4/files/2013/10/2013-10-24-15.40.00.jpg?scale.width=225&scale.height=300" width="225" height=300" alt="2013-10-24 15.40.00" class="alignnone size-medium s3_image-18" />
+![2013-10-24-15.40.00.jpg]({{ site.url }}/img/2013/2013-10-24-15.40.00.jpg)
+

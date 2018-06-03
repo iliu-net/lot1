@@ -25,6 +25,6 @@ title: Beautiful flowers
 ...
 ---
 
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-09-10.49.56-2.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="2014-05-09 10.49.56-2" class="alignnone size-medium s3_image-163" />
+![2014-05-09-10.49.56-2.jpg]({{ site.url }}/img/2014/2014-05-09-10.49.56-2.jpg)
 
 I received this beautiful bunch of flowers from my Shell Group Reporting Team today. They made my day! Thanks for your continuous support!

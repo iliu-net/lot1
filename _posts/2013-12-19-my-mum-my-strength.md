@@ -31,7 +31,7 @@ She has been my company during the radiotherapy treatment. We went together to t
 
 This is a nice picture we took today, while shopping at De Bijenkorf (a nice shopping mall in The Hague) ... we are enjoying the Christmas' spirits!
 
-<img src="https://familiu.sirv.com/4/files/2013/12/2013-12-19-17.56.06.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="2013-12-19 17.56.06" class="alignnone size-medium s3_image-33" />
+![2013-12-19-17.56.06.jpg]({{ site.url }}/img/2013/2013-12-19-17.56.06.jpg)
 
 And of course, my mum has been doing most of the cooking at home. We have tried new recipes together - mostly Dutch ones. Yeap, we have prepared "Ewrtensoep" and "Boerenkool stampot' - amazing! My kids have been spoiled with the 'chaufu' that they like and my mum cooks when she thinks they are not going to eat the main dish (because there are too many vegetables ... well, this is mostly for Kalay) ... but she has also enjoyed the food prepared by "Chef Alex" as she calls my hubby (but watch out, Alex doesnt like to be called this way ... stop it mum!)
 

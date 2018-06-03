@@ -27,6 +27,6 @@ title: Beterschap
 
 "Beterschap" is a Dutch word meaning "Get well" ... this is the lovely card I have got from my family while in hospital last weekend. The yellow tulips were a bonus!
 
+![2014-05-07-16.31.08.jpg]({{ site.url }}/img/2014/2014-05-07-16.31.08.jpg)
 
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-07-16.31.08.jpg?scale.width=300&scale.height=300" width="300" height=300" alt="2014-05-07 16.31.08" class="alignnone size-medium s3_image-135" />
 &nbsp;

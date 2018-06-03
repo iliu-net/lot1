@@ -35,4 +35,5 @@ A long weekend in Landal Het Vennenbos was the last outing of the 'Kerstvakantie
 
 This incident closed 2013 with a bitter feeling. I do not want to have another year like 2013. So I am moving on, we are now in 2014 and this year will be a much better one! It has to be!!!
 
-<img src="https://familiu.sirv.com/4/files/2014/01/happy-new-year-wallpaper-2014-6-9.jpg?scale.width=300&scale.height=144" width="300" height=144" alt="happy new year wallpaper 2014 ()6 9" class="alignnone size-medium s3_image-41" />
+![happy-new-year-wallpaper-2014-6-9.jpg]({{ site.url }}/img/2014/happy-new-year-wallpaper-2014-6-9.jpg)
+

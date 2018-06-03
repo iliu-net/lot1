@@ -29,7 +29,17 @@ It was a Happy Mother's Day indeed on Sunday 11-May. Sebito and Kalay woke me up
 
 Love u All!
 
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-11-12.25.44_DSCN0213.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="2014-05-11 12.25.44_DSCN0213" class="alignnone size-medium s3_image-167" />
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-11-12.27.36_DSCN0219.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="2014-05-11 12.27.36_DSCN0219" class="alignnone size-medium s3_image-168" />
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-11-12.28.28_DSCN0221.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="2014-05-11 12.28.28_DSCN0221" class="alignnone size-medium s3_image-169" />
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-11-12.26.20_DSCN0216.jpg?scale.width=300&scale.height=225" width="300" height=225" alt="2014-05-11 12.26.20_DSCN0216" class="alignnone size-medium s3_image-172" />
+![2014-05-11-12.25.44_DSCN0213.jpg]({{ site.url }}/img/2014/2014-05-11-12.25.44_DSCN0213.jpg)
+
+
+
+![2014-05-11-12.27.36_DSCN0219.jpg]({{ site.url }}/img/2014/2014-05-11-12.27.36_DSCN0219.jpg)
+
+
+
+![2014-05-11-12.28.28_DSCN0221.jpg]({{ site.url }}/img/2014/2014-05-11-12.28.28_DSCN0221.jpg)
+
+
+
+![2014-05-11-12.26.20_DSCN0216.jpg]({{ site.url }}/img/2014/2014-05-11-12.26.20_DSCN0216.jpg)
+

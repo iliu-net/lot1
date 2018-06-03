@@ -29,4 +29,5 @@ When I came back home from hospital, I found a welcome card prepared by Kalay wi
 
 In Dutch, welcome is spelled "Welkom" ... no typo here, just in case you were wondering :-)
 
-<img src="https://familiu.sirv.com/4/files/2014/05/2014-05-07-16.16.09-2-e1399473804927.jpg?scale.width=225&scale.height=300" width="225" height=300" alt="2014-05-07 16.16.09-2" class="alignnone size-medium s3_image-134" />
+![2014-05-07-16.16.09-2-e1399473804927.jpg]({{ site.url }}/img/2014/2014-05-07-16.16.09-2-e1399473804927.jpg)
+

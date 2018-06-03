@@ -33,4 +33,5 @@ Foon Chik, of the Feng Shui society has compiled her predictions for the year of
 
 For now, my best wishes of health, happiness and prosperity for this new year ... And the years to come!
 
-<img src="https://familiu.sirv.com/4/files/2014/01/20140131-184309.jpg?scale.width=300&scale.height=216" width="300" height=216" alt="20140131-184309.jpg" class="alignnone size-medium s3_image-79" />
+![20140131-184309.jpg]({{ site.url }}/img/2014/20140131-184309.jpg)
+

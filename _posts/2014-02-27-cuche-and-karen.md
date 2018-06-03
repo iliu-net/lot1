@@ -22,10 +22,9 @@ post_type: post
 post_mime_type: ""
 comment_count: "1"
 title: Cuche and Karen
-...
 ---
 
-<img src="https://familiu.sirv.com/4/files/2014/02/2014-02-20-12.58.38.jpg?scale.width=300&scale.height=300" width="300" height=300" alt="2014-02-20 12.58.38" class="alignnone size-medium s3_image-117" /><img src="https://tmp.iliu.net/wp-content/uploads/sites/4/2014/02/photo-1a-300x225.jpg" alt="photo 1a" width="300" height="225" class="alignnone size-medium wp-image-120" />
+![2014-02-20-12.58.38.jpg]({{ site.url }}/img/2014/2014-02-20-12.58.38.jpg)
 
 Thanks Cuche and Karen for being in NL with us! It is a blessing for me and my family, I am extremely thankful for your help and company these days. I have learned a lot from you, I am starting to take a different perspective on many things in life .... and hope I can retribute back to you someday. Thanks from the bottom of my heart!
 
