@@ -48,3 +48,5 @@ need another blog :-)
 ![img_4961a]({{ site.url }}/img/2013/IMG_4961a.jpg)
 
 ![img_5372a]({{ site.url }}/img/2013/IMG_5372a.jpg)
+
+See on [Github](https://github.com/iliu-net/lucy)
