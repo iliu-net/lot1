@@ -33,6 +33,6 @@ I have enjoyed watching the Sochi Winter Olympics. It was the first time that I 
 
 Olympics was so much of a distraction that I even had my third chemo watching one game at the hospital. That was on 19-Feb, Ladies' speed skating 5,000m race when Ireen Wust - the best Dutch female skater - won a silver medal. Really cool!
 
-So already 3 cycles of AC done! So far, so good .... I am feeling fine, and of course, hope and pray that it stays good for the upcoming treatments!  Positive mindset!!!
+So already 3 cycles of AC done! So far, so good .... I am feeling fine, and of course, hope and pray that it stays good for the upcoming treatments!  Positive mindset!!!
 
 &nbsp;

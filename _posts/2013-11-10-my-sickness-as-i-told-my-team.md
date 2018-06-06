@@ -25,13 +25,24 @@ title: My sickness ... as I told my team
 ...
 ---
 
-This is the message I sent to my Shell Group Reporting team and Corporate Controllers on 28 October 2013. It was on a Monday, at 7:30am. At the beginning, I didnt want them to know about it, I was scared or ashamed maybe ... but as the days passed by, I felt that it was much better that they know about my sickness. So I wrote this message and sent it to 30/40 people in Shell .... Today I feel relieved that I have done it. I feel It is good to be open and transparent. And with this message, I have received a lot of support and encouragement from my colleagues.
+This is the message I sent to my Shell Group Reporting team and
+Corporate Controllers on 28 October 2013. It was on a Monday, at
+7:30am. At the beginning, I didnt want them to know about it, I was
+scared or ashamed maybe ... but as the days passed by, I felt that it
+was much better that they know about my sickness. So I wrote this
+message and sent it to 30/40 people in Shell .... Today I feel
+relieved that I have done it. I feel It is good to be open and
+transparent. And with this message, I have received a lot of support
+and encouragement from my colleagues.
 
 <em>Dear Team,</em>
 
-<em>Thanks for all the cards, flowers and best wishes of recovery during the last weeks. I appreciate all your good thoughts; they have helped me and brought me lots of positive energy.</em>
+<em>Thanks for all the cards, flowers and best wishes of recovery
+during the last weeks. I appreciate all your good thoughts; they have
+helped me and brought me lots of positive energy.</em>
 
-<em>I know you have been wondering what happened to me and what I have. It has not been easy for me to accept my sickness, and until today, I still wonder why this has happened … I have breast cancer.</em>
+<em>I know you have been wondering what happened to me and what I have.
+It has not been easy for me to accept my sickness, and until today, I still wonder why this has happened - I have breast cancer.</em>
 
 <em>This diagnosis came as a shock to me and my family. For me, it was something unbelievable, totally out of the blue. One day, I was feeling perfectly healthy; the next day, I was diagnosed with cancer. I chose to disclose my sickness only to Remko, Edwin and Sheh-Hwa. They have been very supportive during the last month, and I am extremely thankful for that.</em>
 
@@ -41,6 +52,6 @@ This is the message I sent to my Shell Group Reporting team and Corporate Contro
 
 <em>But this is my reality, and I have to face it. Be strong. Be positive. Have faith. Believe that there is light at the end of the tunnel. Believe that I will recover.</em>
 
-<em>I might be going to the office a few days in the coming months, and with good hope, coming back fully to the team in 2014.  When you see me, do not feel apprehensive, I will be fine to talk to you and share a bit my situation. If you want to contact me, please do so. You can always find me on my mobile phone or personal email: <a href="mailto:lucyli_2000@yahoo.com">lucyli_2000@yahoo.com</a></em>
+<em>I might be going to the office a few days in the coming months, and with good hope, coming back fully to the team in 2014.  When you see me, do not feel apprehensive, I will be fine to talk to you and share a bit my situation. If you want to contact me, please do so. You can always find me on my mobile phone or personal email: <a href="mailto:lucyli_2000@yahoo.com">lucyli_2000@yahoo.com</a></em>
 
 <em>I will do my best to keep positive and be strong to what lies ahead.</em>

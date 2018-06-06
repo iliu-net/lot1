@@ -27,7 +27,7 @@ title: Happy Chinese New Year!
 
 Today is the Lunar New Year and the Chinese New Year of the Horse. 2014 is the Year of the Wood Horse. The Horse brings strength, power and health.
 
-Foon Chik, of the Feng Shui society has compiled her predictions for the year of the horse. This is what she said for a Rat (my Chinese horoscope): <em>"Be prepared for change, and realise you can remain resilient no matter what drama the galloping year of the horse brings. Conflict is not the only answer."  </em>
+Foon Chik, of the Feng Shui society has compiled her predictions for the year of the horse. This is what she said for a Rat (my Chinese horoscope): <em>"Be prepared for change, and realise you can remain resilient no matter what drama the galloping year of the horse brings. Conflict is not the only answer."  </em>
 
 ... will see what the year unfolds!
 
